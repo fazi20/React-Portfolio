@@ -1,0 +1,32 @@
+.inner-div {
+
+    display: flex;
+    justify-content: space-between
+}
+
+
+.about-left-div p {
+
+    font-size: 18px;
+}
+
+.about-right-div {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.about-right-div img {
+
+    height: 100%;
+    width: 100%;
+
+}
+
+.inner-div {
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

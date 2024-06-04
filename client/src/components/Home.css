@@ -1,0 +1,52 @@
+.left-div p {
+
+    color: black;
+    font-size: 18px;
+}
+
+.left-div {
+
+    /* width: 50%; */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btns button {
+    background-color: black;
+    border: none;
+    border: 2px solid black;
+    color: white;
+    padding: 7px 12px;
+    border-radius: 5px;
+
+}
+
+.btns button:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+
+}
+
+.btns .btn2 {
+
+    margin-left: 20px;
+
+}
+
+
+
+.right-div img {
+    height: 100%;
+    width: 100%;
+
+}
+
+.home-innerdiv {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
